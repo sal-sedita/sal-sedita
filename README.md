@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sal-sedita
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... CSS
+- 👀 I’m interested in ... Game Development
+- 🌱 I’m currently learning ... Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
